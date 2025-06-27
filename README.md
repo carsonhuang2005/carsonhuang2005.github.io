@@ -1,2 +1,2 @@
-A website under construction, written by a newbie web programmer.
+A website under construction, written by a newbie web programmer.<br>
 It may take a lot of time to complete only few parts of it....
