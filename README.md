@@ -1,1 +1,2 @@
-# carsonhuang2005.github.io
+A website under construction, written by a newbie web programmer.
+It may take a lot of time to complete only few parts of it....
